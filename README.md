@@ -113,16 +113,6 @@ Follow these steps to run the project locally.
 ### Installation
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/mass-blood-bank.git
-
-# 2. Navigate to project folder
-cd mass-blood-bank
-
-# 3. Open index.html in your browser
-# (Double-click or use Live Server)
-Note: No backend or database setup is required – it’s a static frontend application.
-
 📁 Folder Structure
 text
 mass-blood-bank/
@@ -149,7 +139,7 @@ mass-blood-bank/
 └── README.md
 ```
 
-**##🔮 Future Enhancements**
+**🔮 Future Enhancements**
 
 Area	Planned Improvement
 Backend	Node.js + Express for real-time data handling
@@ -158,7 +148,7 @@ Maps	Location-based blood bank tracking (Leaflet/Google Maps)
 Auth	Secure login (JWT + OAuth)
 Notifications	Email/SMS alerts for urgent requests
 
-**##📄 Conclusion**
+**📄 Conclusion**
 
 Mass Blood Bank is a well-structured frontend project that simulates a real-world blood donation ecosystem. It showcases:
 
@@ -170,9 +160,12 @@ Mass Blood Bank is a well-structured frontend project that simulates a real-worl
 
 -This foundation is ready for backend integration and can be extended into a full-stack application.
 
-**##📬 Contact**
+**📬 Contact**
+
 Project Maintainer: Karthikeyan K U 
+
 GitHub: Karthikeyan-k-u
+
 Project Link: https://github.com/Karthikeyan-k-u/First-FrontEnd-Project-Mass-Blood-Bank-
 
-Made with ❤️ to save lives – one donation at a time.
+****Made with ❤️ to save lives – one donation at a time.****
