@@ -148,7 +148,7 @@ mass-blood-bank/
 │
 └── README.md
 
-🔮 Future Enhancements
+**##🔮 Future Enhancements**
 
 Area	Planned Improvement
 Backend	Node.js + Express for real-time data handling
@@ -156,18 +156,20 @@ Database	MongoDB / Firebase for donor & request storage
 Maps	Location-based blood bank tracking (Leaflet/Google Maps)
 Auth	Secure login (JWT + OAuth)
 Notifications	Email/SMS alerts for urgent requests
-📄 Conclusion
+
+**##📄 Conclusion**
+
 Mass Blood Bank is a well-structured frontend project that simulates a real-world blood donation ecosystem. It showcases:
 
-Modular HTML architecture
+-Modular HTML architecture
 
-Clean, responsive CSS design
+-Clean, responsive CSS design
 
-Basic interactivity with JavaScript
+-Basic interactivity with JavaScript
 
-This foundation is ready for backend integration and can be extended into a full-stack application.
+-This foundation is ready for backend integration and can be extended into a full-stack application.
 
-📬 Contact
+**##📬 Contact**
 Project Maintainer: Karthikeyan K U 
 GitHub: Karthikeyan-k-u
 Project Link: https://github.com/Karthikeyan-k-u/First-FrontEnd-Project-Mass-Blood-Bank-
